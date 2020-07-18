@@ -1,6 +1,6 @@
 # Kaggle_Titanic
 
-This notebook tackles the Titanic: Machine Learning from Disaster from [Kaggle](https://www.kaggle.com/c/titanic/notebooks) data challenge, whose goal is to predict if a passenger survived based on a series of features. As to July/2020, I scored 0.78 accuracy using RandomForest and reaches top 10% on Kaggle leaderboard.
+This notebook tackles the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/notebooks) from Kaggle data challenge, whose goal is to predict if a passenger survived based on a series of features. As to July/2020, I scored 0.78 accuracy using RandomForest and reaches top 10% on Kaggle leaderboard.
 
 ## Dependencies:
 * [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/) for data importing and multi-dimensional computing
